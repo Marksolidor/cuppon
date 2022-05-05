@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:500,300");
+
+/*---boxes---*/
+.container-fluid{
+    margin-top: 0px;
+    background-color: #28A745;
+}
+/*---body---*/
+body {
+    font-family: "Roboto", monospace;
+  }
+header{
+    text-align: left;
+}
+/*---cards---*/
+strong{
+    color: #28A745;
+    font-size: larger;
+}
+/*---section---*/
+section h5{
+    text-align: center;
+    padding-bottom: 1em;
+}
+/*---footer---*/
+footer{
+    text-align: center;
+}
